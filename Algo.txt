@@ -2,6 +2,8 @@ CiCi's Pizza
 2 Hawaii Pizza
 Call
 Order Pizza
+ 4a.pay on phone
+ 4b.cash at door
 Greet Driver
 Pay for Pizza
 Tip Driver
