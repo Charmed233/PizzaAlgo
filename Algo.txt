@@ -1,2 +1,8 @@
-Call CiCi's Pizza
+CiCi's Pizza
 2 Hawaii Pizza
+Call
+Order Pizza
+Greet Driver
+Pay for Pizza
+Tip Driver
+Enjoy Pizza
