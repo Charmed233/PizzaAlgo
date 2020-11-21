@@ -1,17 +1,6 @@
-CiCi's Pizza
-2 Hawaii Pizza 1 extra cheesey Pizza
-Call or order online
-Order Pizza
- 4a.pay on phone
- 4b.cash at door
-Greet Driver
-Pay for Pizza
-Tip Driver
-Enjoy Pizza!
-Look at Pizza
-One order complete
-One order wrong
-Call and explain Pizza not made correctly
-CiCi make new Pizza
-driver deliever new Pizza
-Now fully enjoy Pizza
+Order from Pizza Hut
+Order Stove Top
+Pizza Sause
+Extra Cheese
+Pinapple
+
